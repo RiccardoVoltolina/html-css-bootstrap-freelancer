@@ -23,10 +23,18 @@ header {
     width: 25%;
     height: 50px;
     max-width: 1170px;
+    color: white;
 }
 
 .line_jumbotron {
-    background-color: black;
     height: 3px;
     width: 40%;
+}
+
+/* portfolio section */
+
+.portfolio img {
+    width: 100%;
+    margin-bottom: 1.5rem;
+    border-radius: 10px;
 }
