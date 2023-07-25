@@ -49,3 +49,28 @@ header {
     width: 85%;
     margin: auto;
 }
+
+/* contact section */
+
+.contact {
+    height: 500px;
+    background-color: red;
+}
+
+ /* info section */
+
+ .square_around {
+    aspect-ratio: 1;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin: 0 0.25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .info h5 {
+    padding-top: 3rem;
+ }
