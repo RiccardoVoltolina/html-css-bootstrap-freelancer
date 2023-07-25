@@ -38,3 +38,14 @@ header {
     margin-bottom: 1.5rem;
     border-radius: 10px;
 }
+
+/* about section */
+
+.about {
+        background-color: green;
+}
+
+.container_85 {
+    width: 85%;
+    margin: auto;
+}
