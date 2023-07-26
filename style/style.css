@@ -64,6 +64,23 @@ header {
     background-color: var(--boot-color-primary);
 }
 
+#name::placeholder {
+    color: black;
+}
+
+#email::placeholder {
+    color: black;
+}
+
+#phone_number::placeholder {
+    color: black;
+}
+
+#message::placeholder {
+    color: black;
+}
+  
+
 .pb_100 {
     padding-bottom: 100px;
 }
